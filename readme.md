@@ -8,6 +8,7 @@ cd ..
 npm i express mongoose dotenv
 npm i express-async-handler
 npm i -D nodemon
+touch .env .env.sample
 
 
 "scripts" : {
